@@ -4,15 +4,10 @@
   margin: 0;
   padding: 0;
   outline: none;
-  height: 100%;
+  box-sizing: border-box;
   font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-body,html{
-  height: 100% !important;
-  width: 100%;
 }
 
 code {
