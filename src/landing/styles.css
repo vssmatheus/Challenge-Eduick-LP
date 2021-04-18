@@ -152,7 +152,7 @@ li{
 
 .input__login-password{
     position: relative;
-
+    -webkit-text-security:  none;
 }
 
 .input-icon{
@@ -288,6 +288,7 @@ li{
     }
     .nav__link-wrapper {
         width: 100%;
+        margin: 20% auto;
     }
     .nav__link-wrapper.expanded {
         display: flex;
@@ -350,10 +351,37 @@ li{
         animation-timing-function: ease-out;
     }
     .nav__link-get-stated{
-        margin: 20px auto;
+        margin: 40px auto;
+    }
+    .nav__link{
+        padding: 0;
+    }
+    .btn__get-started{
+        width: 100%;
+        margin: 24px 0;
     }
     li{
+        display: flex;
+        justify-content: center;
         margin: 0;
+        width: 88%;
+    }
+    .modal__card{
+        background: #6A40E4;
+        width: 100%;
+        margin: 0;
+        height: 100vh;
+        overflow: hidden;
+    }
+    .modal__card-container{
+        margin: 0;
+    }
+    #btn__close{
+        background: none;
+        height: 15px;
+        width: 15px;
+        margin: 0;
+        font-size: 30px;
     }
 }
 
