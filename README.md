@@ -4,7 +4,6 @@
 ## Comandos para a instalação e start do projeto com (ReactJS).
  
  - npm install
- - yarn start
  - npm start
  
 ## Layout da LP
