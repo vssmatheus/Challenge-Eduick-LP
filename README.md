@@ -1,4 +1,4 @@
-# Challenge-Eduick-LP
+# Challenge-Eduick-LP | React App
  Desafio de desenvolvimento da interface de uma landing page e uma dashboard.
  
 ## Comandos para a instalação e start do projeto com (ReactJS).
